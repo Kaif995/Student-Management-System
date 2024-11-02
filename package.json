@@ -1,0 +1,23 @@
+{
+  "name": "student-management-system",
+  "version": "1.0.0",
+  "description": "A Student Management System by Typescript with Chalk and Inquierer",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaif995/Student-Management-System.git"
+  },
+  "author": "Kaif Shamim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaif995/Student-Management-System/issues"
+  },
+  "homepage": "https://github.com/Kaif995/Student-Management-System#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^12.0.1"
+  }
+}
